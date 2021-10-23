@@ -1,4 +1,5 @@
 ### Welcome to MoshiQAQ's profile! 👋
+![](https://github.com/MoshiQAQ/MoshiQAQ/blob/output/github-snake.gif)
 <!--
 **MoshiQAQ/MoshiQAQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
