@@ -1,5 +1,5 @@
 ### Welcome to MoshiQAQ's profile! 👋
-[![](https://img.shields.io/badge/RUC-Renmin University of China-0xffffff)]
+[![](https://img.shields.io/static/v1?label=RUC&message=Renmin University of China&color=red)]
 <!--
 **MoshiQAQ/MoshiQAQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
