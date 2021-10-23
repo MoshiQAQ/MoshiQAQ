@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on CCF Bigdata Contests
 - 🌱 I’m currently learning Biomedical Image Segmentation
-- 👯 I’m looking to collaborate on ACM/ICM
+- 👯 I’m looking to collaborate on MCM/ICM
 - 🤔 I’m looking for help with my homework :(
 - 💬 Ask me about something easy to answer :)
 - 📫 How to reach me: yuzhaoyang0713@ruc.edu.cn
