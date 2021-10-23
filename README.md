@@ -13,4 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: yuzhaoyang0713@ruc.edu.cn
 <!-- - 😄 Pronouns:  -->
 <!-- - ⚡ Fun fact: ... -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MoshiQAQ)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MoshiQAQ&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats&theme=vue)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoshiQAQ&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
