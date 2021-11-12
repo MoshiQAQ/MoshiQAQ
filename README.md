@@ -5,9 +5,9 @@
 
 Here are some ideas to get you started:
 -->
-I am:
-Undergraduate at Gaoling School of AI, Renmin University of China.
-Microsoft Learn Student Ambassador.
+I Am:   
+Undergraduate at Gaoling School of AI, Renmin University of China.    
+Microsoft Learn Student Ambassador.  
 <!-- - 🔭 I’m currently working on CCF Bigdata Contests
 - 🌱 I’m currently learning Biomedical Image Segmentation
 - 👯 I’m looking to collaborate on MCM/ICM -->
