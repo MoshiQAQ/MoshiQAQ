@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 I Am:   
 Undergraduate at Gaoling School of AI, Renmin University of China.    
 Microsoft Learn Student Ambassador.  
-- 🔔 I’m currently in Huawei Atlas-200 DK
+- 🔔 ~~I’m currently in Huawei Atlas-200 DK~~
 - 🔎 I'm working on audio-visual navigation with MI CyberDog
 - 💬 Ask me about something easy to answer :)
 - 📫 How to reach me: yuzhaoyang0713@ruc.edu.cn
